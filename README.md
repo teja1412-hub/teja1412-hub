@@ -1,16 +1,16 @@
 ## Hi there, I'm Bhavya Teja Vejandla 👋
 
-- A bit about me: I'm a **Master's** student **@NEU Boston**, majoring in **Computer Science**. Formerly completed my undergrad at **IIT Bhubaneswar** in CS, followed by a year at **MAQ Software as an SWE-1** where I worked on a client project for Microsoft on its enterprise application called CEHub. I'm looking for SWE intern/open-source opportunities to **1)** build experience and **2)** try finding something interesting, challenging & meaningful, smthg I wanna really dive into and be excited about. Hit me up if you have any suggestions/leads/maybe just wanna talk!
+- A bit about me: I'm a **Master's** student **@NEU Boston**, majoring in **Computer Science**. Formerly completed my undergrad at **IIT Bhubaneswar** in CS, followed by a year at **MAQ Software as an SWE-1** where I worked on a client project for Microsoft on its enterprise application called CEHub. I'm looking for **SWE intern/open-source opportunities** to **1)** build experience and **2)** try finding something interesting, challenging & meaningful, smthg I wanna really dive into and be excited about. Hit me up if you have any suggestions/leads/maybe just wanna talk!
 
   
 - 🔭 I’m currently working on ... on a few ideas: one is a computer vision project on a medical image analysis. want to dive into open-source contribution. But long term is to build a path for entry into HFT/tech companies. Why HFT? No idea, just felt them really interesting and slightly because they work with C++!
-- 🌱 I’m currently learning ... goal (by the end of my master's): distributed systems, scalability. The other is on Computer Vision.
+- 🌱 I’m currently learning ... goal (by the end of my master's): **distributed systems, scalability**. The other is on **Computer Vision**.
 - 👯 I’m looking to collaborate on ... as above: any interesting problems which can keep me up at night
-- 🤔 I’m looking for help with ... networking? I don't know the basics, so learning. PLss give me tips, anything helps (more than you know)!
-- 💬 Ask me about ... anything you wanna know, literally anything. Some tips: Professionally: my work on CEHub during my tenure, difficulties, achievements, my work personality etc. Personally: Interests, goals, ambitions, hobbies (sketching, music, mystery novels and medicine/crime-solving series) or maybe on anime: Detective Conan iyk which I'm a die-hard fan of.
+- 🤔 I’m looking for help with ... **networking?** I don't know the basics, so learning. PLss give me tips, anything helps (more than you know)!
+- 💬 Ask me about ... anything you wanna know, literally anything. Some tips: Professionally: my work on CEHub during my tenure, difficulties, achievements, my work personality etc. Personally: Interests, goals, ambitions, hobbies (sketching, music, mystery novels and medicine/crime-solving series) or maybe on anime: **Detective Conan** iyk which I'm a die-hard fan of.
 - 📫 How to reach me: vejandla.03@gmail.com | [linkedin.com/in/bhavya-teja-vejandla](https://www.linkedin.com/in/bhavya-teja-vejandla/)
 - 😄 Pronouns: she/her
-- ⚡ Open to SWE internships — Summer/Fall 2026 - Spring 2027
+- ⚡ **Open to SWE internships — Summer/Fall 2026 - Spring 2027**
 ---
  
 ## 🛠️ What I work with
