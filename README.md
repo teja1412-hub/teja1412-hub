@@ -7,7 +7,7 @@ My focus right now is **systems programming** - low-latency C++, performance-cri
 software, the kind of problems where nanoseconds matter. Long-term target is 
 HFT/trading infrastructure. I'm also interested in ML/CV for medical imaging on the side.
 
-Looking for **SWE internships (Summer/Fall 2026 - Spring 2027)** - systems, 
+Looking for **SWE internships (Spring 2027)** - systems, 
 low-latency, or ML roles. If you have leads, suggestions, or just want to talk, 
 hit me up!
 
